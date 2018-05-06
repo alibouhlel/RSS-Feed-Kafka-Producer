@@ -1,0 +1,17 @@
+http://rss.nytimes.com/services/xml/rss/nyt/World.xml
+http://feeds.bbci.co.uk/news/rss.xml
+http://feeds.reuters.com/Reuters/worldNews
+http://www.oecd.org/australia/index.xml
+http://www.oecd.org/index.xml
+http://feeds.feedburner.com/OecdObserver
+http://www.oecd.org/unitedstates/index.xml
+http://www.oecd.org/unitedkingdom/index.xml
+http://www.oecd.org/turkey/index.xml
+http://www.oecd.org/spain/index.xml
+http://www.oecd.org/southafrica/index.xml
+http://www.oecd.org/russia/index.xml
+http://www.oecd.org/korea/index.xml
+http://www.oecd.org/israel/index.xml
+http://www.oecd.org/germany/index.xml
+http://www.oecd.org/france/index.xml
+http://www.oecd.org/eu/index.xml
